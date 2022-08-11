@@ -15,13 +15,6 @@
       "quadrant": "SQ2"
     },
     {
-      "id": "32TN5F8",
-      "name": "Draco",
-      "meaning": "Dragon",
-      "starsWithPlanets": 22,
-      "quadrant": "NQ3"
-    },
-    {
       "id": "KGQIwSq",
       "name": "Eridanus",
       "meaning": "River",
@@ -97,6 +90,16 @@
       "meaning": "Sails",
       "starsWithPlanets": 7,
       "quadrant": "SQ2"
+    },
+    {
+      "id": "fRQwdcz"
+    },
+    {
+      "name": "Columba",
+      "meaning": "Dove",
+      "starsWithPlanets": 3,
+      "quadrant": "SQ1",
+      "id": "mVRgSqe"
     }
   ]
 }
