@@ -92,14 +92,18 @@
       "quadrant": "SQ2"
     },
     {
-      "id": "fRQwdcz"
-    },
-    {
       "name": "Columba",
       "meaning": "Dove",
       "starsWithPlanets": 3,
       "quadrant": "SQ1",
       "id": "mVRgSqe"
+    },
+    {
+      "name": "Ara",
+      "meaning": "Altar",
+      "starsWithPlanets": 7,
+      "quadrant": "SQ3",
+      "id": "t--DdOd"
     }
   ]
 }
